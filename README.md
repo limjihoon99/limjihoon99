@@ -37,10 +37,10 @@
 ---
 
 <a href="https://github.com/limjihoon99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=limjihoon99&show_icons=true&theme=dracula&count_private=true" height="190" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=limjihoon99&show_icons=true&theme=dracula&count_private=true" height="180" />
 </a>
 <a href="https://github.com/limjihoon99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjihoon99&layout=compact&theme=dracula" height="190" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjihoon99&layout=compact&theme=dracula" height="180" />
 </a>
 
 
