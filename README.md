@@ -1,6 +1,6 @@
 <!-- 타이틀 부분 -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=%08Exo+2&weight=500&size=50&duration=3500&pause=1000&color=9B34EB&center=true&vCenter=true&random=false&width=1000&height=200&lines=Welcome+to+Jihoon's+GitHub+%F0%9F%92%BB" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=%08Exo+2&weight=500&size=50&duration=3500&pause=1000&color=9B34EB&center=true&vCenter=true&random=false&width=1000&height=300&lines=Welcome+to+Jihoon's+GitHub+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
