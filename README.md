@@ -23,7 +23,7 @@
   <img alt="AMAZON RDS" src="https://img.shields.io/badge/AMAZON RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=FFFFFF"/>
   <img alt="AMAZON S3" src="https://img.shields.io/badge/AMAZON S3-569A31?style=for-the-badge&logo=amazons3&logoColor=FFFFFF"/>
   <br>
-  <h3>⚙️ Tools ⚙️</h3>
+  <h3>⚙️ Tool ⚙️</h3>
   <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
   <img alt="Slack" src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="icon" />
