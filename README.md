@@ -25,6 +25,7 @@
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
   <img alt="AMAZON RDS" src="https://img.shields.io/badge/AMAZON RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=FFFFFF"/>
   <img alt="AMAZON S3" src="https://img.shields.io/badge/AMAZON S3-569A31?style=for-the-badge&logo=amazons3&logoColor=FFFFFF"/>
+  <img alt="AMAZON EC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
   <br>
   <h3>⚙️ Tool ⚙️</h3>
   <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
